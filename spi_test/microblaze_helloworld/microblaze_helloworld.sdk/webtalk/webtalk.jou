@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Mon May  8 04:35:27 2023
+# Process ID: 10424
+# Current directory: C:/Users/Takuya/Documents/GitHub/nexys_a7_test/spi_test/microblaze_helloworld/microblaze_helloworld.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: C:/Users/Takuya/Documents/GitHub/nexys_a7_test/spi_test/microblaze_helloworld/microblaze_helloworld.sdk/webtalk/webtalk.log
+# Journal file: C:/Users/Takuya/Documents/GitHub/nexys_a7_test/spi_test/microblaze_helloworld/microblaze_helloworld.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
